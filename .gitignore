@@ -1,0 +1,18 @@
+//main() {
+//	int m[20][20];
+//
+//	int tmp = 0;
+//	for (int i = 0; i < 20; i++) { // striqonebs uvlis! sanam i < 20 manamde atrialebs 
+//		for (int j = 0; j < 20; j++) { // svetebs uvlis es cikli! 
+//			m[i][j] = find_upper_prime(i*j);
+//			printf("%03d ", m[i][j]);
+//		}
+//		printf("\n");
+//	}
+//	printf("\n");
+//	getchar();
+//}
+
+
+
+magali maritivi ricxvis povna
